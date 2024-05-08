@@ -1,4 +1,3 @@
-// DataCard.js
 import React from 'react';
 
 const DataCard = ({ item, onLearnMore }) => {
